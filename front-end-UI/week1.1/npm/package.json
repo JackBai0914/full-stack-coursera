@@ -1,16 +1,16 @@
 {
-  "name": "git-test",
+  "name": "first-web-test",
   "version": "1.0.0",
-  "description": "This is a test to learn Git and Node",
+  "description": "the first web",
   "main": "index.html",
   "scripts": {
-  	"start": "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server. " 
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JackBai0914/full-stack-coursera.git"
+    "url": "https://github.com/JackBai0914/full-stack-coursera/tree/master/front-end-UI.git"
   },
   "author": "Xingjian Bai",
   "license": "ISC",
